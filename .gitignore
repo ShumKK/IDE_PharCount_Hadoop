@@ -1,0 +1,22 @@
+# Complied class file
+*.class
+
+# Log file
+*.log
+
+# Package Files
+*.zip
+*.tar.gz
+*.rar
+
+# IntelliJ
+.idea
+.idea/*
+*.iml
+
+# large file 
+de_cc_data.txt
+# top_cost_drug.txt
+
+# temp 
+.DS_Store
